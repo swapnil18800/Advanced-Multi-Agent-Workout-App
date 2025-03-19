@@ -37,7 +37,7 @@ The **Advanced Multi-Agent Workout App** is an AI-driven fitness assistant that 
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/techwithtim/Advanced-Multi-Agent-Workout-App.git
+git clone ttps://github.com/swapnil18800/Advanced-Multi-Agent-Workout-App.git
 cd Advanced-Multi-Agent-Workout-App
 ```
 
