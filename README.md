@@ -76,7 +76,7 @@ This project is licensed under the **MIT License**.
 ## 📞 Contact
 For any questions or support, feel free to reach out:
 - **GitHub Issues**: Open an issue in this repository.
-- **Email**: contact@techwithtim.com
+- **Email**: swapnil18800@gmail.com
 
 ---
 _Stay fit, stay healthy! 💪🚀_
